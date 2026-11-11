@@ -1,0 +1,251 @@
+[
+  {
+    "player_name": "chiilik",
+    "rounds": 4,
+    "computer_score": 3,
+    "player_score": 1,
+    "winner": "computer",
+    "results": [
+      {
+        "round": 1,
+        "player_dice": 2,
+        "computer_dice": 5,
+        "winner": "computer"
+      },
+      {
+        "round": 2,
+        "player_dice": 4,
+        "computer_dice": 1,
+        "winner": "chiilik"
+      },
+      {
+        "round": 3,
+        "player_dice": 1,
+        "computer_dice": 4,
+        "winner": "computer"
+      },
+      {
+        "round": 4,
+        "player_dice": 3,
+        "computer_dice": 4,
+        "winner": "computer"
+      }
+    ]
+  },
+  {
+    "player_name": "ido",
+    "rounds": 6,
+    "computer_score": 4,
+    "player_score": 2,
+    "winner": "computer",
+    "results": [
+      {
+        "round": 1,
+        "player_dice": 5,
+        "computer_dice": 6,
+        "winner": "computer"
+      },
+      {
+        "round": 2,
+        "player_dice": 1,
+        "computer_dice": 5,
+        "winner": "computer"
+      },
+      {
+        "round": 3,
+        "player_dice": 6,
+        "computer_dice": 3,
+        "winner": "ido"
+      },
+      {
+        "round": 4,
+        "player_dice": 1,
+        "computer_dice": 2,
+        "winner": "computer"
+      },
+      {
+        "round": 5,
+        "player_dice": 3,
+        "computer_dice": 5,
+        "winner": "computer"
+      },
+      {
+        "round": 6,
+        "player_dice": 6,
+        "computer_dice": 5,
+        "winner": "ido"
+      }
+    ]
+  },
+  {
+    "player_name": "chilik",
+    "rounds": 4,
+    "computer_score": 1,
+    "player_score": 1,
+    "winner": "nobody",
+    "results": [
+      {
+        "round": 1,
+        "player_dice": 4,
+        "computer_dice": 4,
+        "winner": "nobody"
+      },
+      {
+        "round": 2,
+        "player_dice": 5,
+        "computer_dice": 6,
+        "winner": "computer"
+      },
+      {
+        "round": 3,
+        "player_dice": 3,
+        "computer_dice": 2,
+        "winner": "chilik"
+      },
+      {
+        "round": 4,
+        "player_dice": 2,
+        "computer_dice": 2,
+        "winner": "nobody"
+      }
+    ]
+  },
+  {
+    "player_name": "naftali",
+    "rounds": 6,
+    "computer_score": 2,
+    "player_score": 3,
+    "winner": "naftali",
+    "results": [
+      {
+        "round": 1,
+        "player_dice": 2,
+        "computer_dice": 2,
+        "winner": "nobody"
+      },
+      {
+        "round": 2,
+        "player_dice": 5,
+        "computer_dice": 1,
+        "winner": "naftali"
+      },
+      {
+        "round": 3,
+        "player_dice": 3,
+        "computer_dice": 1,
+        "winner": "naftali"
+      },
+      {
+        "round": 4,
+        "player_dice": 2,
+        "computer_dice": 5,
+        "winner": "computer"
+      },
+      {
+        "round": 5,
+        "player_dice": 4,
+        "computer_dice": 1,
+        "winner": "naftali"
+      },
+      {
+        "round": 6,
+        "player_dice": 3,
+        "computer_dice": 6,
+        "winner": "computer"
+      }
+    ]
+  },
+  {
+    "player_name": "ido",
+    "rounds": 4,
+    "computer_score": 1,
+    "player_score": 3,
+    "winner": "ido",
+    "results": [
+      {
+        "round": 1,
+        "player_dice": 5,
+        "computer_dice": 1,
+        "winner": "ido"
+      },
+      {
+        "round": 2,
+        "player_dice": 4,
+        "computer_dice": 3,
+        "winner": "ido"
+      },
+      {
+        "round": 3,
+        "player_dice": 1,
+        "computer_dice": 2,
+        "winner": "computer"
+      },
+      {
+        "round": 4,
+        "player_dice": 4,
+        "computer_dice": 3,
+        "winner": "ido"
+      }
+    ]
+  },
+  {
+    "player_name": "chilik",
+    "rounds": 4,
+    "computer_score": 1,
+    "player_score": 3,
+    "winner": "chilik",
+    "results": [
+      {
+        "round": 1,
+        "player_dice": 2,
+        "computer_dice": 1,
+        "winner": "chilik"
+      },
+      {
+        "round": 2,
+        "player_dice": 2,
+        "computer_dice": 5,
+        "winner": "computer"
+      },
+      {
+        "round": 3,
+        "player_dice": 6,
+        "computer_dice": 2,
+        "winner": "chilik"
+      },
+      {
+        "round": 4,
+        "player_dice": 5,
+        "computer_dice": 1,
+        "winner": "chilik"
+      }
+    ]
+  },
+  {
+    "player_name": "chilik",
+    "rounds": 3,
+    "computer_score": 0,
+    "player_score": 2,
+    "winner": "chilik",
+    "results": [
+      {
+        "round": 1,
+        "player_dice": 3,
+        "computer_dice": 1,
+        "winner": "chilik"
+      },
+      {
+        "round": 2,
+        "player_dice": 3,
+        "computer_dice": 3,
+        "winner": "nobody"
+      },
+      {
+        "round": 3,
+        "player_dice": 6,
+        "computer_dice": 4,
+        "winner": "chilik"
+      }
+    ]
+  }
+]
